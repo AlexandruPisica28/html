@@ -16,4 +16,7 @@ section{
     border-radius: 100%;
     background-image: url(../../html.png);
     overflow: hidden;
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: 50% 50%;
 }
